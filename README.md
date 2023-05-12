@@ -5,7 +5,7 @@
 <h3 align="center">A passionate software engineer undergrad. I love solving problems with code and am always eager to learn more.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saadrehman10&label=Profile%20views&color=0e75b6&style=flat" alt="saadrehman10" /> </p>
-<img align="right" alt"coding paradox" scr"EHil.gif">
+<img align="right" alt"coding paradox" scr"EHil.gif"></img>
 - 🌱 I’m currently learning **flutter , next.js and dart**
 
 - 👨‍💻 All of my projects are available at [https://github.com/saadrehman10](https://github.com/saadrehman10)
