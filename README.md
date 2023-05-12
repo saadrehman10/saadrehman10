@@ -1,4 +1,4 @@
-<div style="width:100%;height:0;padding-bottom:42%;position:relative;"><img src="https://giphy.com/embed/zXmbOaTpbY6mA" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></img></div>
+<div style="width:100%;height:0;padding-bottom:42%;position:relative;"><img src="https://giphy.com/embed/zXmbOaTpbY6mAhttps://media.giphy.com/media/zXmbOaTpbY6mA/giphy.gif" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></img></div>
 <h1 align="center">Hi 👋, I'm Saad ur Rehman</h1>
 <h3 align="center">A passionate software engineer undergrad. I love solving problems with code and am always eager to learn more.</h3>
 
