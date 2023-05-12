@@ -1,6 +1,6 @@
 
-<div>
-![NvL](https://github.com/saadrehman10/saadrehman10/assets/125679304/64d4b155-2c04-4c0c-b8a2-72ea5487c7db)</div>
+
+![NvL](https://github.com/saadrehman10/saadrehman10/assets/125679304/64d4b155-2c04-4c0c-b8a2-72ea5487c7db)
 
 
 <h1 align="center">Hi 👋, I'm Saad ur Rehman</h1>
