@@ -1,5 +1,5 @@
 
-<div style="padding-top:75.000%;position:relative;"><img src="3HeZ.gif" width="100%" height="2rem" style='position:absolute;top:0;left:0;' frameBorder="0" ></img></div>
+<div style="padding-top:75.000%;position:relative;"><img src="3HeZ.gif" width="100%" height="10rem" style='position:absolute;top:0;left:0;' frameBorder="0" ></img></div>
 
 <h1 align="center">Hi 👋, I'm Saad ur Rehman</h1>
 <h3 align="center">A passionate software engineer undergrad. I love solving problems with code and am always eager to learn more.</h3>
