@@ -6,6 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saadrehman10&label=Profile%20views&color=0e75b6&style=flat" alt="saadrehman10" /> </p>
 <img src="6ov.gif" width="30%" height="30%" align="right"  style='position:relative;top:0;left:0;margin-top:50rem;' frameBorder="0" ></img>
+
 - 🌱 I’m currently learning **flutter , next.js and dart**
 
 - 👨‍💻 All of my projects are available at [https://github.com/saadrehman10](https://github.com/saadrehman10)
