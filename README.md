@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **saadrehman264@hotmail.com**
 
-- ⚡ Fun fact **I love anime & <img src="xt.gif" width="6%" height="7%" margin="20%" style='position:absolute;top:0;left:0;margin-top:20%;' frameBorder="0" ></img>**
+- ⚡ Fun fact **I love anime & <img src="xt.gif" width="3%" height="3%" style='position:absolute;top:0;left:0;margin-top:20%;' frameBorder="0" ></img>**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
