@@ -1,8 +1,8 @@
 
 <div style="padding-top:75.000%;position:relative;"><img src="3HeZ.gif" width="100%" height="250rem" style='position:absolute;top:0;left:0;' frameBorder="0" ></img></div>
 
-<h1 align="center">Hi 👋, I'm Saad ur Rehman</h1>
-<h3 align="center">A passionate software engineer undergrad. I love solving problems with code and am always eager to learn more.</h3>
+<h1 align="center">A passionate software engineer undergrad</h1>
+<h3 align="center">I love solving problems with code and am always eager to learn more.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saadrehman10&label=Profile%20views&color=0e75b6&style=flat" alt="saadrehman10" /> </p>
 <img src="6ov.gif" width="30%" height="30%" align="right"  style='position:relative;top:0;left:0;margin-top:50rem;' frameBorder="0" ></img>
