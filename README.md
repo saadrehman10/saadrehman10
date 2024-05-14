@@ -32,4 +32,3 @@
 
   <text></text>
 <div style="padding-top:75.000%;position:relative;"><img src="EHil.gif" width="100%" height="300rem" style='position:absolute;top:0;left:0;' frameBorder="0" ></img></div>
-<iframe src="https://github.com/saadrehman10/pack-man-game.git" width="420" height="460" frameborder="0"></iframe>
