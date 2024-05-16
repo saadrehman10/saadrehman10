@@ -17,8 +17,8 @@
 
 - ⚡ Fun fact **I love anime & <img src="xt.gif" width="2.7%" height="2.7%" style='position:absolute;top:0;left:0;margin-top:20%;' frameBorder="0" ></img>**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<!-- <h3 align="left">Connect with me:</h3>
+<p align="left"> -->
 <!-- <a href="https://twitter.com/zmaxpower397" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zmaxpower397" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/saad-ur-rehman-712899236/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/saad-ur-rehman-712899236/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/21890602/saad-ur-rehman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/21890602/saad-ur-rehman" height="30" width="40" /></a>
