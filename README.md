@@ -10,7 +10,7 @@ A passionate software engineer undergrad
 </div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saadrehman10&label=Profile%20views&color=0e75b6&style=flat" alt="saadrehman10" /> </p>
 
-<div styles='display:flex;flex-direction:row;'>
+<div style='display:flex;flex-direction:row;'>
 <p>
 - 🌱 I’m currently learning **Flutter and Dart**
 
