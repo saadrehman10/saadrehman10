@@ -24,7 +24,7 @@ A passionate software engineer undergrad
   
 </p>
 <hr></hr>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saadrehman10&theme=onedark&langs_count=10&card_width=100%&layout=donut-vertical" alt="Most used languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saadrehman10&theme=onedark&langs_count=10&card_width=100%&layout=donut-vertical" alt="Most used languages"></img>
   
  </div> 
 
