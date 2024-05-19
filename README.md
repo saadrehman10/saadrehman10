@@ -20,7 +20,8 @@ A passionate software engineer undergrad
 
 - ⚡ Fun fact **I love to Code**
 </p>
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saadrehman10&theme=onedark&langs_count=10&card_width=540&layout=compact" alt="Most used languages">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saadrehman10&theme=onedark&langs_count=10&card_width=540&layout=donut-vertical" alt="Most used languages">
   <br>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
 <div style="padding-top:75.000%;margin-top:3rem;position:relative;"><img src="gifbottom.gif" width="100%" height="250rem" style='position:absolute;top:0;left:0;' frameBorder="0" ></img></div>
