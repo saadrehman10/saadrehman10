@@ -17,4 +17,4 @@
 - ⚡ Fun fact **I love to Code **
 
 
-<div style="padding-top:75.000%;margin-top:3rem;position:relative;"><img src="gifbottom.gif" width="100%" height="200rem" style='position:absolute;top:0;left:0;' frameBorder="0" ></img></div>
+<div style="padding-top:75.000%;margin-top:3rem;position:relative;"><img src="gifbottom.gif" width="100%" height="300rem" style='position:absolute;top:0;left:0;' frameBorder="0" ></img></div>
