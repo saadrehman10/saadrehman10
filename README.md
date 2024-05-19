@@ -23,9 +23,10 @@ A passionate software engineer undergrad
 - ⚡ Fun fact **I love to Code**
   
 </p>
-<hr></hr>
+<div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saadrehman10&theme=onedark&langs_count=10&card_width=100%&layout=donut-vertical" alt="Most used languages"></img>
-  
+  <a href="https://app.daily.dev/saadrehman264"><img src="https://api.daily.dev/devcards/v2/W01FcjtNITQ9DxRbsQYnc.png?type=default&r=o82" width="356" alt="Saad ur Rehman's Dev Card"/></a>
+  </div>
  </div> 
 
 <div style="padding-top:75.000%;margin-top:3rem;position:relative;"><img src="gifbottom.gif" width="100%" height="250rem" style='position:absolute;top:0;left:0;' frameBorder="0" ></img></div>
