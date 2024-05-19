@@ -29,4 +29,18 @@ A passionate software engineer undergrad
   </div>
 
 
+  <div align="center">
+  <h2> 🏆 My Github Stats <img src="./assets/borderseparator.gif"/></h2><br>
+  <img src="https://github-profile-trophy.vercel.app/?username=saadrehman10&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle" /> <br><h2></h2><br>
+  <img src="https://streak-stats.demolab.com?user=saadrehman10&theme=radical" width="49%" alt="streaks graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=saadrehman10&theme=radical&show_icons=true&count_private=true" width="49%" alt="stats graph" />
+</div> <br>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saadrehman10&custom_title=saadrehman10's%20GitHub%20Activity%20Graph&bg_color=141321&color=A9FEF7&line=626069&point=F8D847&area_color=FE428E&title_color=FE428E&area=true" alt="saadrehman10's Github Activity Graph" width="100%">
+</div>
+
+</br>
+
+
 <div style="padding-top:75.000%;margin-top:3rem;position:relative;"><img src="gifbottom.gif" width="100%" height="250rem" style='position:absolute;top:0;left:0;' frameBorder="0" ></img></div>
