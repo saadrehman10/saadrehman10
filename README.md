@@ -3,9 +3,9 @@
 
 <div>
 <h1 align="center" style='display:flex;flex-direction:row;'>
-<img src="flame.gif" width="10%" height="10%" style='position:absolute;top:0;left:0;' frameBorder="0" >
+<img src="flame.gif" width="5%" height="5%" style='position:absolute;top:0;left:0;' frameBorder="0" >
 A passionate software engineer undergrad
-<img src="flame.gif" width="10%" height="10%" style='position:absolute;top:0;left:0;' frameBorder="0" ></h1>
+<img src="flame.gif" width="5%" height="5%" style='position:absolute;top:0;left:0;' frameBorder="0" ></h1>
 <h3 align="center">I love solving problems with code and am always eager to learn more.</h3>
 </div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saadrehman10&label=Profile%20views&color=0e75b6&style=flat" alt="saadrehman10" /> </p>
