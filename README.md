@@ -9,6 +9,8 @@ A passionate software engineer undergrad
 <h3 align="center">I love solving problems with code and am always eager to learn more.</h3>
 </div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saadrehman10&label=Profile%20views&color=0e75b6&style=flat" alt="saadrehman10" /> </p>
+
+<div styles='display:flex;flex-direction:row;'>
 <p>
 - 🌱 I’m currently learning **Flutter and Dart**
 
@@ -19,9 +21,11 @@ A passionate software engineer undergrad
 - 📫 How to reach me **saadrehman264@hotmail.com**
 
 - ⚡ Fun fact **I love to Code**
+  
 </p>
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saadrehman10&theme=onedark&langs_count=10&card_width=540&layout=donut-vertical" alt="Most used languages">
-  <br>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saadrehman10&theme=onedark&langs_count=10&card_width=100%&layout=donut-vertical" alt="Most used languages">
+  
+ </div> 
 
 <div style="padding-top:75.000%;margin-top:3rem;position:relative;"><img src="gifbottom.gif" width="100%" height="250rem" style='position:absolute;top:0;left:0;' frameBorder="0" ></img></div>
